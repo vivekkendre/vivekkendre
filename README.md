@@ -1,5 +1,5 @@
 # 💫 About Me:
-Personal data analysis projects using Python (EDA, visualization) and practicing C++ for problem solving<br>Data Science, Python-based or C++ open source projects<br>Machine Learning concepts and building my first ML model<br>Python, Pandas, NumPy, SQL, Data Visualization (Matplotlib, Seaborn) and C++<br>Python basics, C++ fundamentals, Data Analysis, and anything related to Data Science<br>I debug C++ for logic, and use Python to make data tell stories! 🐍➕➕
+Personal data analysis projects using Python (EDA, visualization) and practicing C++ for problem solving<br>Data Science, Python-based or C++ open source projects<br>Machine Learning concepts and building my first ML model<br>Python, Pandas, NumPy, SQL, Data Visualization (Matplotlib, Seaborn) and C++<br>Python basics, C++ fundamentals, Data Analysis, and anything related to Data Science<br>I debug C++ for logic, and use Python to make data 🐍➕➕
 
 
 ## 🌐 Socials:
